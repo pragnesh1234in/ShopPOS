@@ -1,0 +1,5 @@
+{
+  "name": "Shop_POS",
+  "description": "A comprehensive, browser-based Point of Sale system featuring inventory management, sales tracking, analytics, and offline data persistence using IndexedDB.",
+  "requestFramePermissions": []
+}
